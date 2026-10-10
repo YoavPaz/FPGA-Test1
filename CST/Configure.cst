@@ -1,0 +1,9 @@
+IO_LOC "clk" 52;
+IO_LOC "pwm" 32;
+IO_LOC "led1" 11;
+
+IO_LOC "scl" 25;
+IO_PORT "scl" PULL_MODE=UP;
+
+IO_LOC "sda" 26;
+IO_PORT "sda" PULL_MODE=UP;
